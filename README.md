@@ -5,16 +5,17 @@
 [Themes Item Preparation & Technical Requirements](https://help.author.envato.com/hc/en-us/articles/360000470826-Themes-Item-Preparation-Technical-Requirements)
 
 ## Check List:
-1. Imagine and wire frame a design. Decide if you are designing for a particular audience (restaurants, or hotels, or artist’s portfolios…) or if you are going for a more general template. The other option is to take inpiration from a website or template. Check out the [Latest Design Trends](https://github.com/panacloud-modern-global-apps/ui-design-trends)
+1. Imagine and wire frame a design. Decide if you are designing for a particular audience (restaurants, or hotels, or artist’s portfolios…) or if you are going for a more general template. The other option is to take inpiration from a website or template. Check out the [Latest Design Trends](https://github.com/panacloud-modern-global-apps/ui-design-trends).
 2. Once you are happy with the design, create the site! Be meticulous with your code, comment everything so it’s extremely readable and clear, and format everything properly.
 3. Fill your site with good looking filler text content. You can use [Lorem Ipsum](https://loremipsum.io/), but in the places where text is highly visible, you should write the content yourself so it is personally applicable to the site you made.
-4. Create a simple read-me on how to replace content in your site and host it with a popular web host like Vercel. Include an affiliate links!
-5. Organize your file and documentation so that it is easy to view, edit and understand. Group, label and organize common elements so that buyers are able to easily edit your file. **The more editable your file is, the more valuable it is to buyers.**
-6. Ensure that your code is validated and in a style that represents the latest and best practices in the industry. 
-7. Our main selling point is that we are building Full-Stack Strongly and Fully Typed Easily Customizable Responsive Accessible Web2 and Web3 Templates. To understand the concept read these articles:
+4. For Oper Source Images, Video, etc. check this [link](https://github.com/dimitrisraptis96/design-heaven)
+5. Create a simple read-me on how to replace content in your site and host it with a popular web host like Vercel. Include an affiliate links!
+6. Organize your file and documentation so that it is easy to view, edit and understand. Group, label and organize common elements so that buyers are able to easily edit your file. **The more editable your file is, the more valuable it is to buyers.**
+7. Ensure that your code is validated and in a style that represents the latest and best practices in the industry. 
+8. Our main selling point is that we are building Full-Stack Strongly and Fully Typed Easily Customizable Responsive Accessible Web2 and Web3 Templates. To understand the concept read these articles:
 - [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
 - [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
-8. All our templates will use the following tech stack:
+9. All our templates will use the following tech stack:
 - Our Programming Language is [TypeScript](https://github.com/panacloud-modern-global-apps/learn-typescript) (Version 4.9+)
 - Our Full-Stack Web Platform is [Next.js](https://github.com/panacloud-modern-global-apps/nextjs) (Version 12.3+). Do [practice project](https://github.com/panacloud-modern-global-apps/nextjs-projects).
 - Our component library is [Chakra UI](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects) (Version 2.3.6+)
@@ -26,11 +27,11 @@
 - Ethers for Ethereum integration (Version 5.7+)
 - For Smart Contracts we will use Solidity (Version 0.8.17+) with Hardhat (Version 2.12+)
 - For Quick [Deployment](https://vercel.com/docs/cli/deploy) we will use Vercel with [CLI](https://vercel.com/docs/cli)
-9. Each template must have documentation for the user.
-10. Have two versions with seprate directories: a. plain site b. with Contentful integrated (Headless CMS)
-11. The Contentful version should export files: https://www.contentful.com/developers/docs/tutorials/cli/import-and-export/ 
-12. Have the ability to change colors from the central place https://chakra-ui.com/docs/styled-system/theme
-13. Must implement reponsive sytles https://chakra-ui.com/docs/styled-system/responsive-styles
+10. Each template must have documentation for the user.
+11. Have two versions with seprate directories: a. plain site b. with Contentful integrated (Headless CMS)
+12. The Contentful version should export files: https://www.contentful.com/developers/docs/tutorials/cli/import-and-export/ 
+13. Have the ability to change colors from the central place https://chakra-ui.com/docs/styled-system/theme
+14. Must implement reponsive sytles https://chakra-ui.com/docs/styled-system/responsive-styles
 Please test your template with all these breakpoints (The inspect element on the browsers have these breakpoints built in, use it to test):
 - 320px - Mobile S
 - 375px - Mobile M
