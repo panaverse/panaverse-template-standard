@@ -7,7 +7,7 @@
 ## Check List:
 1. Organize your file and documentation so that it is easy to view, edit and understand. Group, label and organize common elements so that buyers are able to easily edit your file. **The more editable your file is, the more valuable it is to buyers.**
 2. Ensure that your code is validated and in a style that represents the latest and best practices in the industry. 
-3. Our main selling point is that we are building Full-Stack Strongly and Fully Typed Web2 and Web3 Templates. To understand the concept read these articles:
+3. Our main selling point is that we are building Full-Stack Strongly and Fully Typed Easily Customizable Responsive Accessible Web2 and Web3 Templates. To understand the concept read these articles:
 - [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
 - [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
 5. All our templates will use the following tech stack:
