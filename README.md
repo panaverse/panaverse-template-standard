@@ -8,7 +8,7 @@
 1. Imagine and wire frame a design. Decide if you are designing for a particular audience (restaurants, or hotels, or artist’s portfolios…) or if you are going for a more general template. The other option is to take inpiration from a website or template. Check out the [Latest Design Trends](https://github.com/panacloud-modern-global-apps/ui-design-trends).
 2. Once you are happy with the design, create the site! Be meticulous with your code, comment everything so it’s extremely readable and clear, and format everything properly.
 3. Fill your site with good looking filler text content. You can use [Lorem Ipsum](https://loremipsum.io/), but in the places where text is highly visible, you should write the content yourself so it is personally applicable to the site you made.
-4. For Oper Source Images, Video, etc. check this [link](https://github.com/dimitrisraptis96/design-heaven)
+4. For Oper Source Images, Video, etc. check this [link](https://github.com/dimitrisraptis96/design-heaven).
 5. Create a simple read-me on how to replace content in your site and host it with a popular web host like Vercel. Include an affiliate links!
 6. Organize your file and documentation so that it is easy to view, edit and understand. Group, label and organize common elements so that buyers are able to easily edit your file. **The more editable your file is, the more valuable it is to buyers.**
 7. Ensure that your code is validated and in a style that represents the latest and best practices in the industry. 
