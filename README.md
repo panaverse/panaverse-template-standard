@@ -14,6 +14,7 @@
 - Our Programming Language is TypeScript (Version 4.9+)
 - Our Full-Stack Web Platform is Next.js (Version 12.3+)
 - Our component library is Chakra UI (Version 2.3.6+)
+- For minor animation [Framer-Motion](https://chakra-ui.com/getting-started/with-framer) (Version 2.3+)
 - To develop simple API integrated with Next.js we will use [API Routes](https://nextjs.org/docs/api-routes/introduction) with [tRPC](https://trpc.io/docs/v10/nextjs) (Version 10+)
 - For Database Access we will use [Prisma](https://www.prisma.io/nextjs) (Version 4.5+). It will be used to access data in Next.js API Routes.
 - For Database we can use anything because Prisma supports these [databases](https://www.prisma.io/docs/reference/database-reference/supported-databases). However, for local development we will use SQLite which is shipped with every Prisma release. For cloud deployment we will use [CockroachDB serverless](https://www.cockroachlabs.com/blog/announcing-cockroachdb-serverless/), it has [Vercel integration](https://vercel.com/integrations/cockroachdb)
