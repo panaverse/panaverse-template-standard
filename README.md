@@ -17,7 +17,7 @@
 - [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
 9. All our templates will use the following tech stack:
 - Our Programming Language is [TypeScript](https://github.com/panacloud-modern-global-apps/learn-typescript) (Version 4.9+)
-- Our Full-Stack Web Platform is [Next.js](https://github.com/panacloud-modern-global-apps/nextjs) (Version 12.3+). Do [practice project](https://github.com/panacloud-modern-global-apps/nextjs-projects).
+- Our Full-Stack Web Platform is [Next.js](https://github.com/panacloud-modern-global-apps/nextjs) (Version 12.3+). [Practice projects available here](https://github.com/panacloud-modern-global-apps/nextjs-projects).
 - Our component library is [Chakra UI](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects) (Version 2.3.6+)
 - For minor animation [Framer-Motion](https://chakra-ui.com/getting-started/with-framer) (Version 2.3+)
 - To develop simple API integrated with Next.js we will use [API Routes](https://nextjs.org/docs/api-routes/introduction) with [tRPC](https://trpc.io/docs/v10/nextjs) (Version 10+)
