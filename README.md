@@ -5,7 +5,7 @@
 [Themes Item Preparation & Technical Requirements](https://help.author.envato.com/hc/en-us/articles/360000470826-Themes-Item-Preparation-Technical-Requirements)
 
 ## Check List:
-1. Imagine and wire frame a design. Decide if you are designing for a particular audience (restaurants, or hotels, or artist’s portfolios…) or if you are going for a more general template. The other option is to take inpiration from a website or template.
+1. Imagine and wire frame a design. Decide if you are designing for a particular audience (restaurants, or hotels, or artist’s portfolios…) or if you are going for a more general template. The other option is to take inpiration from a website or template. Check out the [Latest Design Trends](https://github.com/panacloud-modern-global-apps/ui-design-trends)
 2. Once you are happy with the design, create the site! Be meticulous with your code, comment everything so it’s extremely readable and clear, and format everything properly.
 3. Fill your site with good looking filler text content. You can use [Lorem Ipsum](https://loremipsum.io/), but in the places where text is highly visible, you should write the content yourself so it is personally applicable to the site you made.
 4. Create a simple read-me on how to replace content in your site and host it with a popular web host like Vercel. Include an affiliate links!
@@ -15,9 +15,9 @@
 - [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
 - [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
 8. All our templates will use the following tech stack:
-- Our Programming Language is TypeScript (Version 4.9+)
-- Our Full-Stack Web Platform is Next.js (Version 12.3+)
-- Our component library is Chakra UI (Version 2.3.6+)
+- Our Programming Language is [TypeScript](https://github.com/panacloud-modern-global-apps/learn-typescript) (Version 4.9+)
+- Our Full-Stack Web Platform is [Next.js](https://github.com/panacloud-modern-global-apps/nextjs) (Version 12.3+). Do [practice project](https://github.com/panacloud-modern-global-apps/nextjs-projects).
+- Our component library is [Chakra UI](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects) (Version 2.3.6+)
 - For minor animation [Framer-Motion](https://chakra-ui.com/getting-started/with-framer) (Version 2.3+)
 - To develop simple API integrated with Next.js we will use [API Routes](https://nextjs.org/docs/api-routes/introduction) with [tRPC](https://trpc.io/docs/v10/nextjs) (Version 10+)
 - For Database Access we will use [Prisma](https://www.prisma.io/nextjs) (Version 4.5+). It will be used to access data in Next.js API Routes.
