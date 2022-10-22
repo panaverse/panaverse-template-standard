@@ -40,4 +40,5 @@ Please test your template with all these breakpoints (The inspect element on the
 - 1024px - Laptop
 - 1440px - Laptop L
 - 2560px - 4K
+15. If appropriate make you Website an [PWA](https://www.pwabuilder.com/)
 
