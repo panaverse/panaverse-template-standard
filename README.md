@@ -43,14 +43,29 @@ Please test your template with all these breakpoints (The inspect element on the
 15. If appropriate make you Website an [PWA](https://github.com/shadowwalker/next-pwa)
 16. Our directory structure will be as follows:
 ```
+            readme.md
             noCMS
-              Chakra UI
+              readme.md
+              ChakraUI
+                 readme.md
+                 project files
               TailwindCSS
+                 readme.md
+                 project files
             Contentful
-              Chakra UI
+              readme.md
+              ChakraUI
+                 readme.md
+                 project files
               TailwindCSS
+                 readme.md
+                 project files
             Strapi
-              Chakra UI
+              ChakraUI
+                 readme.md
+                 project files
               TailwindCSS
+                 readme.md
+                 project files
  ```
 
