@@ -44,27 +44,26 @@ Please test your template with all these breakpoints (The inspect element on the
 16. Our directory structure will be as follows:
 ```
             readme.md
-            noCMS
-              readme.md
-              ChakraUI
+            TailwindCSS
+               reamdme.md
+               noCMS
                  readme.md
                  project files
-              TailwindCSS
+               Contentful
                  readme.md
                  project files
-            Contentful
-              readme.md
-              ChakraUI
+               Strapi
                  readme.md
                  project files
-              TailwindCSS
+            ChakraUI
+               reamdme.md
+               noCMS
                  readme.md
                  project files
-            Strapi
-              ChakraUI
+               Contentful
                  readme.md
                  project files
-              TailwindCSS
+               Strapi
                  readme.md
                  project files
  ```
