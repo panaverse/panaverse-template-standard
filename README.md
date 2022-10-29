@@ -41,4 +41,16 @@ Please test your template with all these breakpoints (The inspect element on the
 - 1440px - Laptop L
 - 2560px - 4K
 15. If appropriate make you Website an [PWA](https://github.com/shadowwalker/next-pwa)
+16. Our directory structure will be as follows:
+```
+            noCMS
+              Chakra UI
+              TailwindCSS
+            Contentful
+              Chakra UI
+              TailwindCSS
+            Strapi
+              Chakra UI
+              TailwindCSS
+ ```
 
