@@ -68,3 +68,12 @@ Please test your template with all these breakpoints (The inspect element on the
                  project files
  ```
 
+## The Steps in the Process
+
+1. Create template on chakra & next 12
+2. Get approval from sir Zeeshan and miss Hira for UI
+3. Get approval from sir Zeeshan and miss Hira for contentful model
+4. Create template on tailwind and next 13
+5. Get approval from sir Zeeshan and miss Hira 
+6. Add documentation for the template
+7. Get approval from Sir Zia
